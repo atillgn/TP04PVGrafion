@@ -13,6 +13,7 @@ public class EquipoFutbol implements Serializable{
 	private String nombre;
 	public EquipoFutbol() {
 		
+		
 	}
 	public EquipoFutbol(String nombre) {
 		super();
